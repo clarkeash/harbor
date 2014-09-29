@@ -1,6 +1,6 @@
 # Senary Harbor
 
-Vagrant virtual environment for Senary Framework and Hack language. Includes:
+Vagrant environment for Hack language. Includes:
 
 - HHVM 3.3
 - Nginx
