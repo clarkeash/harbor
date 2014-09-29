@@ -2,7 +2,7 @@
 
 Vagrant virtual environment for Senary Framework and Hack language. Includes:
 
-- HHVM 3.2
+- HHVM 3.3
 - Nginx
 - Mysql
 - Composer
